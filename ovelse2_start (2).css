@@ -14,7 +14,7 @@ body {
 
 header {
     grid-area: a;
-    background-color: #F00;
+    background-color: blueviolet;
     padding: 0.2em;
     margin-bottom: 0.5em;
 }
